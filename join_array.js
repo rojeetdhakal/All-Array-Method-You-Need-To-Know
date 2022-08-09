@@ -6,7 +6,7 @@
 
 //syntax:array.join(separator)
 
-const names=['Nepal','china','india','romania']
+const names=['Nepal','china','india','romania','america']
 const name=names.join('  and  ')
 console.log(names)
 console.log(name)
